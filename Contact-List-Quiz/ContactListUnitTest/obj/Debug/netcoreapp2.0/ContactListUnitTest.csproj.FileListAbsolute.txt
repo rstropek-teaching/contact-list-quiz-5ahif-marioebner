@@ -1,0 +1,16 @@
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\bin\Debug\netcoreapp2.0\ContactListUnitTest.deps.json
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\bin\Debug\netcoreapp2.0\ContactListUnitTest.runtimeconfig.json
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\bin\Debug\netcoreapp2.0\ContactListUnitTest.runtimeconfig.dev.json
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\bin\Debug\netcoreapp2.0\ContactListUnitTest.dll
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\bin\Debug\netcoreapp2.0\ContactListUnitTest.pdb
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\bin\Debug\netcoreapp2.0\Contact-List-Quiz.dll
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\bin\Debug\netcoreapp2.0\Contact-List-Quiz.pdb
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\obj\Debug\netcoreapp2.0\ContactListUnitTest.csprojResolveAssemblyReference.cache
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\obj\Debug\netcoreapp2.0\ContactListUnitTest.csproj.CoreCompileInputs.cache
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\obj\Debug\netcoreapp2.0\ContactListUnitTest.AssemblyInfoInputs.cache
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\obj\Debug\netcoreapp2.0\ContactListUnitTest.AssemblyInfo.cs
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\obj\Debug\netcoreapp2.0\ContactListUnitTest.dll
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\ContactListUnitTest\obj\Debug\netcoreapp2.0\ContactListUnitTest.pdb

@@ -1,0 +1,11 @@
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\Contact-List-Quiz\bin\Debug\netcoreapp2.0\Contact-List-Quiz.deps.json
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\Contact-List-Quiz\bin\Debug\netcoreapp2.0\Contact-List-Quiz.runtimeconfig.json
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\Contact-List-Quiz\bin\Debug\netcoreapp2.0\Contact-List-Quiz.runtimeconfig.dev.json
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\Contact-List-Quiz\bin\Debug\netcoreapp2.0\Contact-List-Quiz.dll
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\Contact-List-Quiz\bin\Debug\netcoreapp2.0\Contact-List-Quiz.pdb
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\Contact-List-Quiz\obj\Debug\netcoreapp2.0\Contact-List-Quiz.csprojResolveAssemblyReference.cache
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\Contact-List-Quiz\obj\Debug\netcoreapp2.0\Contact-List-Quiz.csproj.CoreCompileInputs.cache
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\Contact-List-Quiz\obj\Debug\netcoreapp2.0\Contact-List-Quiz.AssemblyInfoInputs.cache
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\Contact-List-Quiz\obj\Debug\netcoreapp2.0\Contact-List-Quiz.AssemblyInfo.cs
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\Contact-List-Quiz\obj\Debug\netcoreapp2.0\Contact-List-Quiz.dll
+D:\Schule\5AHIF\POSE-C#\Contact-List-Quiz\Contact-List-Quiz\Contact-List-Quiz\obj\Debug\netcoreapp2.0\Contact-List-Quiz.pdb
